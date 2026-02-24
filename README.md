@@ -4,6 +4,16 @@ A lightweight, production-ready HR management system for managing employees and 
 
 ---
 
+## ⚠️ Important Note on Loading Time
+
+This app is hosted on **Render's free tier**. 
+The backend server spins down after inactivity and may take **50-60 seconds to wake up** on the first request.
+
+If the dashboard appears stuck on loading:
+- Simply **wait 60 seconds**
+- Then **refresh the page**
+- It will work normally after the initial wake-up
+
 ## Tech Stack
 
 | Layer      | Technology                        |
